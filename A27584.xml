@@ -1,0 +1,483 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief view of the state of mankind in the first Adam and the second Adam being the sum of many larger discourses upon that great context of the redemption and mediation of Jesus Christ / by T. Beverley.</title>
+            <author>Beverley, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27584</idno>
+            <idno type="STC">Wing B2125</idno>
+            <idno type="STC">ESTC R15745</idno>
+            <idno type="EEBO-CITATION">11724959</idno>
+            <idno type="OCLC">ocm 11724959</idno>
+            <idno type="VID">48369</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27584)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48369)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 14:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief view of the state of mankind in the first Adam and the second Adam being the sum of many larger discourses upon that great context of the redemption and mediation of Jesus Christ / by T. Beverley.</title>
+                  <author>Beverley, Thomas.</author>
+               </titleStmt>
+               <extent>[2], 54 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in National Library of Scotland (Advocates').</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ.</term>
+               <term>Redemption.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48369:1"/>
+            <pb facs="tcp:48369:1" rendition="simple:additions"/>
+            <p>A BRIEF VIEW OF THE STATE OF <hi>Mankind,</hi> IN THE Firſt ADAM, and in the Second ADAM, Being the Sum of many larger Diſcourſes upon that Great Context of the Redempti<g ref="char:EOLhyphen"/>on, and Mediation of Jeſus Chriſt.</p>
+            <p>Rom. 5. 12. to the end.</p>
+            <p>By <hi>T Beverley.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:48369:2"/>
+            <pb n="1" facs="tcp:48369:2"/>
+            <head>
+               <bibl>Rom. c. 5. v. 12. to the End.</bibl>
+            </head>
+            <div type="part">
+               <argument>
+                  <p>To you my Honoured and Tru<g ref="char:EOLhyphen"/>ly Loved Hearers, I propoſe to preſent the <hi>Mediatorſhip,</hi> and <hi>Redemption</hi> of Jeſus Chriſt in this Context, in a Summary view of each parti<g ref="char:EOLhyphen"/>cular, whereof I have diſcour<g ref="char:EOLhyphen"/>ſed at large, that you may have it always in Remem<g ref="char:EOLhyphen"/>brance.</p>
+               </argument>
+               <p>NOW the Apoſtle had in his foregoing Diſcourſe ſet out the abſolute Neceſſity, <hi>All Mankind</hi> have of a <hi>Medi<g ref="char:EOLhyphen"/>ator</hi> of <hi>Righteouſneſs,</hi> and <hi>Ac<g ref="char:EOLhyphen"/>ceptance</hi> with God to <hi>Eternal Life,</hi> by way of <hi>Reconciliation, Propitiation, Attonement,</hi> and <hi>Redemption,</hi> to Reprize and Recover them: For <hi>All have
+<pb n="2" facs="tcp:48369:3"/> ſinned</hi> and <hi>fallen ſhort of that Glory of God,</hi> and are run in<g ref="char:EOLhyphen"/>to <hi>Sin, Judgment, Death,</hi> and <hi>Condemnation,</hi> ſo as to have <hi>their Mouths stop'd, and to be<g ref="char:EOLhyphen"/>come Guilty before God.</hi>
+               </p>
+               <p>He had with all expreſs'd at large the abſolutely perfect, and ſufficient <hi>Mediation</hi> of Je<g ref="char:EOLhyphen"/>ſus Chriſt to all thoſe purpoſes of Life; and ſhewn, that the <hi>beſt of men,</hi> ſuch as <hi>Abraham</hi> and <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> had truſted wholly to it. And upon good Reaſon, for therein Conſcience may forever ſit down in <hi>Peace with God,</hi> and reſt in <hi>hope of his Glory,</hi> and by no other way can they ſo do.</p>
+               <p>In this Context He doth both remove an Objection in<g ref="char:EOLhyphen"/>cident to what He had ſaid, and exceedingly amplifies the <hi>Mediatorſhip</hi> of Chriſt.</p>
+               <p>The Objection He removes is, That it may ſeem ſtrange to
+<pb n="3" facs="tcp:48369:3"/> be <hi>juſtified before God,</hi> and <hi>ac<g ref="char:EOLhyphen"/>cepted</hi> with Him by the <hi>Righ<g ref="char:EOLhyphen"/>teouſneſs</hi> of Another.</p>
+               <p>To this the Apoſtle ſupplies an Anſwer, That it was always ſo intended by God to <hi>justifie</hi> and accept Humane Nature, by a <hi>Common Head,</hi> or <hi>Mediator</hi> of it, ſtanding <hi>Righteous</hi> before Him; while it is always to be underſtood, that an Inward, Real, and Inherent <hi>Righteouſ<g ref="char:EOLhyphen"/>neſs,</hi> and Active Obedience, ſhould be conveyed from the <hi>Righteouſneſs</hi> of that <hi>Common Head</hi> or <hi>Mediator.</hi>
+               </p>
+               <p>This the Apoſtle proves by ſtrong interwoven Aſſertions, that <hi>Adam</hi> was at firſt ſuch a <hi>Common Head,</hi> and <hi>Mediator;</hi> in whoſe Continuance to ſtand <hi>Righteous</hi> before God, this whole Poſterity of <hi>Humane Nature</hi> ſhould have alſo ſtood <hi>Righteous,</hi> and in Grace, and Favour with God, and have
+<pb n="4" facs="tcp:48369:4"/> maintained an inward <hi>Righte<g ref="char:EOLhyphen"/>ouſneſs,</hi> and active <hi>Obedience</hi> to Him to <hi>Eternal Life.</hi> And therefore, when by <hi>Sin</hi> He <hi>fell,</hi> He became by the force of that Conſtitution, an unhappy <hi>Me<g ref="char:EOLhyphen"/>diator</hi> of <hi>Sin, Judgment, Con<g ref="char:EOLhyphen"/>demnation,</hi> and <hi>Death,</hi> and al<g ref="char:EOLhyphen"/>ſo of inward <hi>
+                     <g ref="char:V">Ʋ</g>nrighteouſneſs</hi> and <hi>Diſobedience</hi> to an innu<g ref="char:EOLhyphen"/>merable Train of <hi>actual Tranſ<g ref="char:EOLhyphen"/>greſſions.</hi>
+               </p>
+               <p>Therefore it follows the Con<g ref="char:EOLhyphen"/>veyance of <hi>Righteouſneſs</hi> to <hi>Ju<g ref="char:EOLhyphen"/>stification,</hi> and of the Power of <hi>Sanctification</hi> to the Reign of, and in <hi>Eternal Life</hi> by Jeſus Chriſt is much ſtronger, then the Conveyance of <hi>Righteouſneſs</hi> by <hi>Adam,</hi> (as if he had ſtood was intended) or of <hi>Sin</hi> and <hi>Death</hi> by his <hi>Fall,</hi> of which there is ſo long and ſad Expe<g ref="char:EOLhyphen"/>rience.</p>
+               <p>But then further, the Apo<g ref="char:EOLhyphen"/>ſtle Aggrandizes and Amplifie<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:48369:4"/> the <hi>Redemption, Headſhip,</hi> and <hi>Communication</hi> of Chriſt above that of <hi>Adam;</hi> in that <hi>He</hi> calls <hi>Adam</hi> but a <hi>Type</hi> or <hi>Figure</hi> of <hi>Him that was to come</hi> (or more ſignificantly, of <hi>Him that was to be,</hi> viz. the <hi>Common Head,</hi> or <hi>Mediator,</hi> whom God de<g ref="char:EOLhyphen"/>ſign'd in the foreſight at leaſt of <hi>Adams Fall,</hi> to be that <hi>Com<g ref="char:EOLhyphen"/>mon Head,</hi> or <hi>Mediator</hi> of <hi>Righteouſneſs</hi> (though by way of Reſcue, and Recovery) to <hi>Humane Nature,</hi> and that un<g ref="char:EOLhyphen"/>changeably and irreverſably.</p>
+               <p>As therefore the <hi>Antitype</hi> or Perſon <hi>Figured</hi> excells the <hi>Type</hi> or <hi>Perſon Figuring,</hi> ſo Chriſt excells <hi>Adam</hi> as a Head, or <hi>Mediator</hi> of <hi>Righteouſneſs;</hi> And when <hi>Adam</hi> came to be a <hi>Head</hi> of <hi>Sin,</hi> and of <hi>Apoſtacy,</hi> the Communication of <hi>Life,</hi> and <hi>Righteouſneſs</hi> from Chriſt ſur<g ref="char:EOLhyphen"/>mounts not only in the Quali<g ref="char:EOLhyphen"/>ty, and Dignity of Things
+<pb n="6" facs="tcp:48369:5"/> communicated, <hi>viz.</hi> Of <hi>Grace, Righteouſneſs,</hi> and <hi>Life,</hi> above <hi>Sin, Wrath, Death,</hi> and <hi>Con<g ref="char:EOLhyphen"/>demnation,</hi> but in the <hi>Abun<g ref="char:EOLhyphen"/>dancy</hi> and <hi>Efficacy</hi> of the <hi>Com<g ref="char:EOLhyphen"/>munication,</hi> as is by the Apo<g ref="char:EOLhyphen"/>ſtle moſt magnificently diſ<g ref="char:EOLhyphen"/>play'd, both in the Grand Pro<g ref="char:EOLhyphen"/>poſition, <hi>v.</hi> 18. and in the at<g ref="char:EOLhyphen"/>tending Parallels, or Compari<g ref="char:EOLhyphen"/>ſons double on each ſide of the Propoſition; as ſhall be ſeen in their juſt Order, and Places.</p>
+               <p>The only Limitation, and Reſtraint for the Right Un<g ref="char:EOLhyphen"/>derſtanding of the whole is.</p>
+               <p>That thoſe, to whom Chriſt is a Head of Communication, of what is in Him, muſt be in Him, as All Mankind was, and is deſcendingly from <hi>Adam,</hi> elſe there can be no <hi>Communi<g ref="char:EOLhyphen"/>cation.</hi>
+               </p>
+               <p>And yet, Though <hi>All men</hi> are univerſally, none excepted
+<pb n="7" facs="tcp:48369:5"/> in <hi>Adam,</hi> and none but the truly <hi>Regenerate</hi> or <hi>Born again</hi> are in Chriſt, which are alas in Compariſon, but the <hi>Few of Mankind.</hi> Yet this does not prejudice or leſſen the <hi>Head<g ref="char:EOLhyphen"/>ſhip</hi> of Chriſt, or make it run lower in its ſurmount of <hi>Com<g ref="char:EOLhyphen"/>municativeneſs,</hi> above the <hi>Com<g ref="char:EOLhyphen"/>municativeneſs</hi> of <hi>Adams Sin</hi> and <hi>Guilt,</hi> and <hi>Death</hi> and <hi>Con<g ref="char:EOLhyphen"/>demnation</hi> upon it.</p>
+               <p>This is the proſpect of the whole, to which every parti<g ref="char:EOLhyphen"/>cular ſhall anſwer in its due Time and Place.</p>
+               <div n="1" type="proposition">
+                  <head>Propoſit. 1.</head>
+                  <p>The Firſt point I begin with, is upon the Center of the Com<g ref="char:EOLhyphen"/>pariſon betwixt <hi>Adam</hi> and <hi>Chriſt, viz.</hi> That the <hi>First Adam</hi> is the <hi>Figure</hi> or <hi>Type</hi> of <hi>Him,</hi> who is to be the <hi>Second</hi> and <hi>Last Adam;</hi> for beyond Him there can be none.</p>
+                  <p>The <hi>Firſt Adam</hi> Created by God in a <hi>Righteous</hi> and <hi>Holy</hi>
+                     <pb n="8" facs="tcp:48369:6"/> Eſtate, and in a direct Line to <hi>Life</hi> was ordain'd by God, a <hi>Common Head,</hi> and <hi>Mediator</hi> of <hi>Humane Nature,</hi> and was, if He had ſtood to have Remain<g ref="char:EOLhyphen"/>ed ſo, and to have conveyed indefeiſably his Excellent State to his Poſterity; But becauſe of his Fall, fore-ſeen by God, He was but a <hi>Figure,</hi> or <hi>Type</hi> of Jeſus Chriſt, the onely <hi>per<g ref="char:EOLhyphen"/>fect Adam,</hi> For in that He is the <hi>Second</hi> and the <hi>Last;</hi> It ar<g ref="char:EOLhyphen"/>gues He is the onely perfect; For if the Firſt had not been <hi>Found Fault with,</hi> There had been no <hi>place Found for a Se<g ref="char:EOLhyphen"/>cond,</hi> and if there could any Fault have been Found with the <hi>Second,</hi> He might not have been the Laſt.</p>
+                  <p>The Great Proof of this Pro<g ref="char:EOLhyphen"/>poſition, and of the whole Train, that here Follows upon it, Lyes in the <hi>Word of God.</hi>
+                  </p>
+                  <pb n="9" facs="tcp:48369:6"/>
+                  <p>It is True indeed, we muſt by the Line of Reaſon Aſcend to ſome <hi>Firſt Father</hi> of <hi>Man<g ref="char:EOLhyphen"/>kind,</hi> who will in the very Na<g ref="char:EOLhyphen"/>ture of the Thing be a <hi>Trustee,</hi> or <hi>Common Perſon</hi> for his Po<g ref="char:EOLhyphen"/>ſterity, and when we muſt needs Believe, That <hi>Firſt Parent</hi> came perfect out of the <hi>Creatours Hand,</hi> and when we find the <hi>Remains,</hi> and mentions of ſuch a <hi>Perfection</hi> in our ſelves, in the <hi>Law written in our Hearts,</hi> we muſt therefore conclude; He by his <hi>Tranſgreſſion</hi> loſt that <hi>Perfection</hi> into a State of <hi>Sin</hi> and <hi>Death,</hi> wherein we Find our ſelves ſo far ingulph'd.</p>
+                  <p>And when ſo Great a <hi>Second Adam,</hi> as the <hi>Son of God in our Nature</hi> is <hi>Reveal'd</hi> to us by the Goſpel. Reaſon muſt needs Aſſent, that It is a Recovery of <hi>Humane Nature,</hi> both moſt proper and moſt Illuſtrious, of which Grace of God, <hi>Nature</hi> hath ſome Light.</p>
+                  <pb n="10" facs="tcp:48369:7"/>
+                  <p>But the Greateſt Proof, I ſay, is the <hi>Word of God,</hi> which we have ſtrongeſt Reaſon to Believe, ſeeing we find thoſe moſt Intimate Principles ingra<g ref="char:EOLhyphen"/>ven on our Hearts, ſo Fairly written in that <hi>Word of God.</hi> And when we Find the High<g ref="char:EOLhyphen"/>eſt Accounts of <hi>Sin</hi> and <hi>Death,</hi> ſo ſenſibly and experimentally Known in the World to be moſt Rationably and Credibly Trac'd to their Original in the ſame Word, far beyond all in the World, that is written of them. We muſt needs have Greateſt force of Conviction of its Truth.</p>
+                  <p>Now that the <hi>Firſt Adam</hi> was Intended by God to be ſuch a <hi>Figure</hi> of <hi>Him that is to Be,</hi> Beſides, that the Aſſertion is Seated here in the midſt of this weighty Diſcourſe of <hi>Re<g ref="char:EOLhyphen"/>demption;</hi> It is alſo made the Center of as great a Diſcourſe of the <hi>Reſurrection.</hi> Theſe <hi>Two</hi>
+                     <note place="margin">1 Cor. 15. 45. 47.</note>
+                     <pb n="11" facs="tcp:48369:7"/> 
+                     <hi>Adams,</hi> (call'd alſo <hi>Two Men,</hi> the <hi>Firſt</hi> and <hi>Second Man,</hi> as if there had been but thoſe Two Men at any Time in the World) and indeed there were never Any Two ſuch <hi>Men, Men</hi> each Comprehending whole <hi>Humane Nature</hi> within Themſelves; Heads each of the Nature, Communicating to it All in Themſelves; Two <hi>Per<g ref="char:EOLhyphen"/>fect Men,</hi> at the Full dimenſi<g ref="char:EOLhyphen"/>ons, <hi>Men,</hi> as <hi>Adam</hi> before the Fall, and Jeſus Chriſt for Ever: Theſe Two are made, One the <hi>Head</hi> of <hi>Death,</hi> the other of the <hi>Reſurrection.</hi>
+                  </p>
+                  <p>Theſe <hi>Two Men</hi> then, I ſay, had the whole <hi>Nature</hi> of <hi>Man</hi> in them; <hi>Adam,</hi> Created the onely Man in the World, and <hi>Eve, One Adam</hi> with Him, com<g ref="char:EOLhyphen"/>prizing All the <hi>Nature</hi> to deſ<g ref="char:EOLhyphen"/>cend from Him.</p>
+                  <p>Jeſus Chriſt hath this Na<g ref="char:EOLhyphen"/>ture, whole and entire in Him:
+<pb n="12" facs="tcp:48369:8"/> He, as the <hi>Son of God,</hi> of an <hi>Eternal Perſonage</hi> in Himſelf, Embrac'd and Aſſum'd, not a <hi>Humane Perſon,</hi> but the Abſtract <hi>Humane Nature,</hi> by the Imme<g ref="char:EOLhyphen"/>diate Operation of the <hi>Divine Spirit,</hi> not deriving it from <hi>Adam</hi> in the way of ordinary Generation, and ſo not under Him, as a <hi>Head.</hi>
+                  </p>
+                  <p>And yet the Firſt of theſe Two Common Heads, <hi>Adam</hi> paſſes under Headſhip of Jeſus Chriſt, which peculiarity of ſo doing is nothing to Any of Thoſe to whom He Communi<g ref="char:EOLhyphen"/>cates, as ſuch a <hi>Common Head,</hi> Humane Nature. For <hi>Adam</hi> by <hi>Faith</hi> came under Chriſt, as the Head of Recovery, of which none of Humane Na<g ref="char:EOLhyphen"/>ture deſcending from Him re<g ref="char:EOLhyphen"/>ceive any Thing more than from any other man. For He did not that as a <hi>Common Head,</hi> but as one <hi>private</hi> man;
+<pb n="13" facs="tcp:48369:8"/> For in that Act, He forſook his own <hi>Apoſtate Headſhip,</hi> chuſing rather to be under the ſaving <hi>Headſhip</hi> of Chriſt.</p>
+                  <p>But Jeſus Chriſt by the in<g ref="char:EOLhyphen"/>finitely wiſe Counſel of God, though He took the ſame com<g ref="char:EOLhyphen"/>mon Nature of the Sons of <hi>Adam,</hi> yet he took it on a new Title; not from <hi>Adam</hi> as a <hi>Head;</hi> but as the <hi>Son of God</hi> from the <hi>Holy Spirit;</hi> and not under <hi>Adam's</hi> Covenant, ſo that while He derived his ſub<g ref="char:EOLhyphen"/>ſtance, his Nature as man, from Him, ſo as to be called the Son of <hi>Adam,</hi> and the <hi>Seed of the Woman;</hi> He was yet by the prerogative of his <hi>Immedi<g ref="char:EOLhyphen"/>ate Conception from the Divine Spirit,</hi> the <hi>Son of God</hi> in a Higher Senſe then <hi>Adam</hi> was the <hi>Son of God;</hi> even in regard of his <hi>Humane Nature</hi> Chriſt was ſo the <hi>Son of God.</hi>
+                  </p>
+                  <pb n="14" facs="tcp:48369:9"/>
+                  <p>And while the <hi>Seed</hi> that are in Him Receives nothing from him of the old <hi>Humane Na<g ref="char:EOLhyphen"/>ture,</hi> but from <hi>Adam</hi> only; They yet receive from him a new Humane Nature, parallel by <hi>Regeneration</hi> to his <hi>miracu<g ref="char:EOLhyphen"/>lous Generation,</hi> in the <hi>Renova<g ref="char:EOLhyphen"/>tion</hi> of their Nature; And as <hi>Eve</hi> was taken out of <hi>Adam,</hi> ſo they are his <hi>Spouſe, taken as</hi>
+                     <note place="margin">Epheſ. 5. 32.</note> 
+                     <hi>out of him</hi> by <hi>myſtical Commu<g ref="char:EOLhyphen"/>nication</hi> from him; They are from him, alſo as Children from the <hi>ſecond Adam, Father of the World to come.</hi> They are <hi>conform'd</hi> to him, as <hi>the First born among many Brethren,</hi> ſo<note place="margin">Eſay. 9. 6. Rom. 8. 29.</note> that all Types, all Relations meet in him.</p>
+                  <p>Let us then ſettle this Firſt point; That <hi>Adam</hi> was made by God a <hi>common Perſon,</hi> a <hi>Head,</hi> a <hi>Root,</hi> a <hi>Mediator</hi> of <hi>Humane Nature,</hi> not of <hi>Inter<g ref="char:EOLhyphen"/>ceſſion,</hi> but of <hi>Communication;</hi>
+                     <pb n="15" facs="tcp:48369:9"/> ſo that if he had ſtood, He had held up <hi>Humane Nature,</hi> and herein he was primarily a <hi>Type</hi> of Chriſt.</p>
+                  <div type="section">
+                     <head>Arguments of this.</head>
+                     <p n="1">1. Whatever <hi>Adam</hi> was made at firſt, In that he was made a <hi>Type</hi> of <hi>Him</hi> that <hi>was</hi> to <hi>be, viz.</hi> Chriſt. But God<note place="margin">Gen. 1. 27. Eccl. 7. 29.</note> Created him in his <hi>own Image</hi> at firſt, in <hi>Knowledge, Righte<g ref="char:EOLhyphen"/>ouſneſs,</hi> and <hi>True Holineſs; He made him upright.</hi>
+                     </p>
+                     <p>Now if <hi>Adam</hi> in this State had not been a <hi>Type</hi> of Him, <hi>that was to be;</hi> It had been too late, (as I may ſo ſay,) when he had <hi>ſinned,</hi> and <hi>fallen</hi> to be made ſuch a <hi>Type,</hi> for that had been to enchain his Poſterity in <hi>Sin</hi> and <hi>Death,</hi> without any prevention; which can never be ſuppoſed to be done by God; He was
+<pb n="16" facs="tcp:48369:10"/> then at firſt a <hi>Head of Life,</hi> and <hi>Righteouſneſs.</hi> And this is the firſt Senſe of his being a <hi>Type</hi> of Chriſt, <hi>who is to be, viz.</hi> in Communication of <hi>Life</hi> and <hi>Righteouſneſs.</hi> And by his Fall only a Head of Sin and Death, elſe he had been not a <hi>Type,</hi> but a <hi>Counter Head</hi> only.</p>
+                     <p>But in being ſuch a <hi>Head,</hi> he is infinitely out-done by Chriſt; For the <hi>Firſt Adam</hi> was made a <hi>living Soul,</hi> He had the <hi>Breath</hi> of <hi>Life breathed</hi> in<g ref="char:EOLhyphen"/>to him. <hi>Gen.</hi> 2. <hi>v.</hi> 7. <hi>Adam</hi> might, as a Veſſel of Gold, have held that <hi>Life</hi> given him by God. But He was not a Spring that could ſtill ſupply it, that it could not be loſt, nor ſpring it again if loſt; He could not <hi>Riſe from the Dead,</hi> nor <hi>Raiſe the Dead.</hi>
+                     </p>
+                     <p>This Chriſt can do, as the <hi>Laſt Adam, the Lord from Heaven,</hi>
+                        <note place="margin">1 Cor. 15. 45.</note> a <hi>quickning Spirit,</hi> For as the
+<pb n="17" facs="tcp:48369:10"/> 
+                        <hi>Father hath life in himſelf;</hi> So<note place="margin">John 5. 25, 26.</note> hath he <hi>given to the Son,</hi> to <hi>have life in himſelf; They</hi> there<g ref="char:EOLhyphen"/>fore, that are <hi>dead</hi> ſhall hear <hi>the Voice of the Son of God,</hi> and <hi>Live,</hi> He is a <hi>Well of water</hi>
+                        <note place="margin">c. 4. 14.</note> 
+                        <hi>ſpringing up to Eternal Life; Adam</hi> might Fall, becauſe he had not the <hi>Spring of Life;</hi> Chriſt cannot Fail; and can recover the Fallen, becauſe he is the <hi>Life</hi> it ſelf; Here is our own Hope.</p>
+                     <p n="2">2. <hi>Adam</hi> was in ſtate of Favor and Acceptance with God; As a <hi>Prince</hi> He <hi>went near unto Him,</hi> and declared to Him concerning the <hi>Crea<g ref="char:EOLhyphen"/>tures,</hi>
+                        <note place="margin">Geneſ. 2. 19. 23.</note> concerning <hi>Eve,</hi> he was not afraid of God till he ſinn'd.</p>
+                     <p>This he was to have con<g ref="char:EOLhyphen"/>vey'd. For to convey the Wrath and Diſpleaſure of God, ſo as that his <hi>Children</hi> ſhould be <hi>Children of Wrath by Nature,</hi>
+                        <note place="margin">Epheſ. 2.</note> and not to have convey'd the
+<pb n="18" facs="tcp:48369:11"/> Favor of God, had not been according to either the Juſtice or Goodneſs of God.</p>
+                     <p>But being fallen into Diſ<g ref="char:EOLhyphen"/>pleaſure, he cannot, as the <hi>on<g ref="char:EOLhyphen"/>ly begotten Son of the Father,</hi>
+                        <note place="margin">Ma<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. 3. 17.</note> 
+                        <hi>
+                           <gap reason="illegible" resp="#MURP" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> higher than the Heavens; <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>he <gap reason="illegible" resp="#MURP" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> in whom he is well pleas'<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</hi> I <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>ede or Mediate for Hi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſelf, or his Poſterity; It is Chriſt onely, who by his <hi>Spirit,</hi> even the <hi>Spirit of the</hi>
+                        <note place="margin">Galat. 4. 6.</note> 
+                        <hi>Son ſent into their Hearts,</hi> re<g ref="char:EOLhyphen"/>ſtores his <hi>to the Crying Abba, Father.</hi>
+                     </p>
+                     <p n="3">3. <hi>Adam</hi> was in his <hi>Creation,</hi> and the <hi>Covenant</hi> made with Him upon it, to be a Head of Life, and of a Bleſſed <hi>Immorta<g ref="char:EOLhyphen"/>lity,</hi> and to have conveyed it to <hi>All</hi> in <hi>Him;</hi> Of this the <hi>Tree of Life</hi> in the <hi>midſt of Pa<g ref="char:EOLhyphen"/>radiſe</hi>
+                        <note place="margin">Geneſ. 2. c.</note> was a <hi>Sacrament.</hi>
+                     </p>
+                     <p>But not as the <hi>Son of God</hi> in <hi>our Nature,</hi> (as was before ſet out in the <hi>Life</hi> of <hi>Righteouſneſs</hi>)
+<pb n="19" facs="tcp:48369:11"/> Chriſt is the <hi>Lord</hi> of <hi>Life</hi> and <hi>Glory</hi> the <hi>Reſurrection</hi> and the <hi>Life,</hi> which <hi>Adam</hi> could not be, but when that Life God Gave Him was Loſt, as He <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> not keep it, ſo He could not reſtore it; but in <hi>Adam All Dye, All in Chriſt are made Alive.</hi>
+                        <note place="margin">1 Cor. 15. 21, 22.</note>
+                     </p>
+                     <p>But that we may <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>ther Underſtand the Great Wi<gap reason="illegible" resp="#MURP" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>m of God, in making ſuch a <hi>Head</hi> as <hi>Adam</hi> was at firſt, who there<g ref="char:EOLhyphen"/>by became a <hi>Figure</hi> of <hi>Him</hi> that <hi>was to Be,</hi> and that It was to the Great Good of Man<g ref="char:EOLhyphen"/>kind conſidered in it ſelf, will thus Appear.</p>
+                     <p n="1">1. God, who certainly Knows, what was Beſt for his own <hi>Crea<g ref="char:EOLhyphen"/>tion,</hi> and particularly for the <hi>Humane Creation,</hi> diſpos'd it thus, (as moſt ſecure for it) under a <hi>Common Head</hi> and <hi>Me<g ref="char:EOLhyphen"/>diator</hi> (therein Fore-ſhewing the Laſting Happineſs of <hi>Man<g ref="char:EOLhyphen"/>kind</hi>
+                        <pb n="20" facs="tcp:48369:12"/> in Chriſt) For thus no ſingle Perſon would be in dan<g ref="char:EOLhyphen"/>ger to be Loſt, but the whole ſecur'd in <hi>One, viz.</hi> in one <hi>Common Head</hi> Anſwering for All.</p>
+                     <p n="2">2. This <hi>One</hi> was the <hi>Common Parent</hi> of all Mankind, and ſo had a Parental Love and Care ingrafted into Him by God for his Poſterity, the Remains of which we ſee now how ſtrongly It Acts among Men.</p>
+                     <p n="3">3. He was Accompliſh'd with <hi>All Powers</hi> of <hi>Standing,</hi> ſo that nothing lay upon Him, but to Hold what He Had, and to Live in the Conſtant Exerciſe and diſplay of it.</p>
+                     <p n="4">4. It was but One Inſtance, or Act of Obedience, upon which the whole <hi>Righteouſneſs</hi> and <hi>Happineſs</hi> of Man was ſuſpen<g ref="char:EOLhyphen"/>ded; <hi>viz.</hi> His not Eating the Forbidden Fruit: the ſingular Teſt, and proof God put upon
+<pb n="21" facs="tcp:48369:12"/> Him of his Love and Fidelity to Himſelf, and in which All his <hi>Holy</hi> and <hi>Excellent State,</hi> as by one unlooſeable Knot, if not Cut by Sin was kept ſtrait and entire; of which the Tree of the <hi>Knowledge of Good and Evil</hi> was a Sacrament, and ſtanding Admonition.</p>
+                     <p n="5">5. It is moſt Reaſonable to believe, there was a certain de<g ref="char:EOLhyphen"/>terminate Time, and that but ſhort; wherein <hi>Adam</hi>'s Obe<g ref="char:EOLhyphen"/>dience was to be Try'd, and if He had ſtood that Shock, and Reſiſted the Temptation, He and his Poſterity had been con<g ref="char:EOLhyphen"/>firm'd for ever.</p>
+                     <p>In him therefore <hi>Humane Nature</hi> had the fulleſt and fair<g ref="char:EOLhyphen"/>eſt View It could have, and the moſt ample Advantages for it ſelf to be Happy for ever; <hi>Adam</hi> therefore was thus eve<g ref="char:EOLhyphen"/>ry way Fit, and moſt Advan<g ref="char:EOLhyphen"/>tageouſly, and by the Infinite
+<pb n="22" facs="tcp:48369:13"/> Goodneſs of the Creator plac'd as the <hi>Common Head</hi> of <hi>Man<g ref="char:EOLhyphen"/>kind,</hi> as a <hi>Type</hi> of Chriſt.</p>
+                  </div>
+                  <div type="application">
+                     <p>The Application, and Uſe of this firſt Propoſition, is;</p>
+                     <p n="1">1. The Conſideration of <hi>Hu<g ref="char:EOLhyphen"/>mane Nature</hi> Enſtated at firſt in its <hi>Common Parent,</hi> as its <hi>Head</hi> and <hi>Mediator,</hi> Furniſh'd with the Life of <hi>Righteouſneſs</hi> and <hi>Holineſs,</hi> in a <hi>State of Fa<g ref="char:EOLhyphen"/>vor</hi> with God, and in the Aſſu<g ref="char:EOLhyphen"/>rance of a <hi>Bleſſed Immortality,</hi> and yet ſo wofully <hi>Fallen</hi> by our <hi>Firſt Parent,</hi> ſhould ex<g ref="char:EOLhyphen"/>ceedingly <hi>Humble</hi> and <hi>Abaſe</hi> us before God, in a juſt Senſe of our <hi>Fallen Condition;</hi> as be<g ref="char:EOLhyphen"/>ing the effect of our own diſ<g ref="char:EOLhyphen"/>loyalty in <hi>Adam,</hi> our Repre<g ref="char:EOLhyphen"/>ſentative, and in whom we may ſee our own <hi>Falſeneſs,</hi> and the great <hi>Faithfulneſs</hi> of God to us.</p>
+                     <p n="2">2. It Teaches us to Adore the <hi>Grace</hi> of God in Jeſus Chriſt,
+<pb n="23" facs="tcp:48369:13"/> ſo Bleſſed a <hi>Mediator,</hi> who can<g ref="char:EOLhyphen"/>not fail us, to fly to Him, as our onely ſecurity, both from the Ruine we are fallen into by <hi>Adam,</hi> and alſo from our own <hi>Falſe Righteouſneſs,</hi> that ſeems to remain to us, and from the Treachery and Falſeneſs of our own Hearts, and Reſolu<g ref="char:EOLhyphen"/>tions in Holineſs: All our Se<g ref="char:EOLhyphen"/>curity is in Chriſt alone, and in dependency on Him.</p>
+                     <p n="3">3. We ſhould therefore look moſt diligently to this, that we are Found in the <hi>Second Adam,</hi> the <hi>Head</hi> of our <hi>Recovery,</hi> who ſo much excells the <hi>Firſt Adam,</hi> though he had not <hi>fallen;</hi> how much more, when he is <hi>Fallen,</hi> and become the <hi>Head of Ruine</hi> and <hi>Apoſtacy,</hi> For he onely, who by being in the Son, <hi>hath the Son,</hi> He only <hi>hath Life,</hi> but <hi>who hath not the Son, hath not</hi>
+                        <note place="margin">1 John <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. 12. John. 3. <gap reason="illegible" resp="#MURP" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>.</note> 
+                        <hi>Life,</hi> but the <hi>Wrath of God abides upon Him.</hi>
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <div type="part">
+               <pb facs="tcp:48369:14"/>
+               <pb n="25" facs="tcp:48369:14"/>
+               <argument>
+                  <p>I have under the foregoing Pro<g ref="char:EOLhyphen"/>poſition given a Sum of the whole Context, and laid the Foundation, I ſhall now go on to give the Sum of every Propoſition ariſing from it.</p>
+               </argument>
+               <div n="2" type="proposition">
+                  <head>Propoſ. 2.</head>
+                  <p>
+                     <hi>ADAM</hi> hath conveyed a <hi>Law of Righteouſneſs</hi> to All his Poſterity, engrafted in<g ref="char:EOLhyphen"/>to their <hi>Hearts,</hi> and It is ſo in<g ref="char:EOLhyphen"/>ſeparable from <hi>Humane Nature,</hi> that one cannot paſs without the other; but he hath not conveyed a Nature anſwerable and agreeable to that <hi>Law,</hi> but ſunk down from it into <hi>Sin,</hi> which is the trueſt Ac<g ref="char:EOLhyphen"/>count of <hi>Original Sin,</hi> however It cannot be ſearch'd in all the particulars in ſo ſhort a ſum<g ref="char:EOLhyphen"/>mary; but thus he hath con<g ref="char:EOLhyphen"/>veyed <hi>Sin,</hi> and <hi>Death</hi> to all
+<pb n="26" facs="tcp:48369:15"/> his <hi>Poſterity;</hi> and thus the<note place="margin">Rom. 5. 13, 14.</note> Apoſtle proves the Common <hi>Headſhip</hi> of <hi>Adam.</hi> There can<g ref="char:EOLhyphen"/>not be <hi>Death</hi> without <hi>Sin,</hi> there cannot be <hi>Sin</hi> without a <hi>Law,</hi> there cannot be a <hi>Law</hi> without the <hi>giving that Law,</hi> there was no univerſal <hi>Law</hi> till <hi>Moſes;</hi> There was univer<g ref="char:EOLhyphen"/>ſal <hi>Death</hi> of all Mankind, even of Infants before <hi>Moſes,</hi> there muſt be therefore univerſal <hi>Sin,</hi> and therefore alſo there muſt have been an univerſal <hi>Law</hi> given; Such a <hi>Law</hi> being no way ſo Given, till <hi>Moſes,</hi> but by that <hi>Law written in Mens Hearts;</hi> Hereby it neceſſarily ariſes, <hi>Adam</hi> muſt be a <hi>Head</hi> conveying an <hi>
+                        <g ref="char:V">Ʋ</g>niverſal Law;</hi> But not conveying an univer<g ref="char:EOLhyphen"/>ſal Nature, ſuitable to it, as <hi>Righteous, Holy,</hi> and <hi>Good,</hi> as<note place="margin">Rom. 7. 12.</note> that <hi>Law is,</hi> He hath convey<g ref="char:EOLhyphen"/>ed <hi>Sin,</hi> and <hi>Death,</hi> Univerſally.</p>
+                  <pb n="27" facs="tcp:48369:15"/>
+                  <p>1. <hi>Adam</hi> was entruſted with a <hi>Nature</hi> perfectly agreeable to this <hi>Law;</hi> but falling from it, under the Juſtice of God, He conveys this <hi>Law</hi> with the diſagreeable <hi>Nature,</hi> on which follows Sin and Condemnati<g ref="char:EOLhyphen"/>on. He was in the beſt Cir<g ref="char:EOLhyphen"/>cumſtances any Man could be to have preſerved the one with the other; and as the <hi>Com<g ref="char:EOLhyphen"/>mon Father</hi> of All the moſt ob<g ref="char:EOLhyphen"/>liged, to look well to it, and much ſtronger, then if every ſingle man had been to pre<g ref="char:EOLhyphen"/>ſerve it only for himſelf, ſeeing the Care of an Univerſal Pa<g ref="char:EOLhyphen"/>rent muſt needs be in Nature the higheſt Care, and our dai<g ref="char:EOLhyphen"/>ly Unfaithfulneſs to our ſelves in what is in our Power, ſhews, how little Reaſon there is to complain, as if we would have done better, each man for himſelf, then <hi>Adam</hi> for us <hi>All.</hi>
+                  </p>
+                  <pb n="28" facs="tcp:48369:16"/>
+                  <p>Herein how does Chriſt ex<g ref="char:EOLhyphen"/>cell <hi>Adam,</hi> as a <hi>Common Head or Mediator.</hi> For He con<g ref="char:EOLhyphen"/>veys a <hi>Law</hi> indeed, but it is a <hi>Law of the Spirit of Life,</hi> as to Juſtification, and that carries with it an Efficacious Law to <hi>Sanctification,</hi> as ſhall be ſhown.</p>
+                  <p>
+                     <hi>Adam</hi> conveying a Law, but not conveying a Foun<g ref="char:EOLhyphen"/>tain of Action agreeable, hath convey'd a Law of Sin and Death, becauſe the <hi>Law</hi> con<g ref="char:EOLhyphen"/>demns the <hi>Nature;</hi> but Chriſt conveys nothing but <hi>Grace, Righteouſneſs,</hi> and <hi>Life</hi> to All in Him. Thus different a <hi>Head</hi> he is from <hi>Adam,</hi> both ways, who was a <hi>Figure</hi> and not a <hi>Figure</hi> of Chriſt who is to be that <hi>Head;</hi> a Figure in con<g ref="char:EOLhyphen"/>veying, but not a Figure in conveying Sin and Death in<g ref="char:EOLhyphen"/>ſtead of <hi>Life</hi> and <hi>Righteouſneſs,</hi> as he was at firſt appointed.</p>
+                  <pb n="29" facs="tcp:48369:16"/>
+                  <p>2. What <hi>Adam</hi> conveys, he<note place="margin">Pſal. 51. 5. Epheſ. 2. <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> c. 4. 22.</note> conveys by <hi>Natural Generati<g ref="char:EOLhyphen"/>on,</hi> and ſo eſpecially by the <hi>Body;</hi> as all evidence of Scrip<g ref="char:EOLhyphen"/>ture aſſure us, too many to need pointing to; <hi>Hence Children of Wrath by Nature,</hi> by <hi>Conception in Sin,</hi> the Na<g ref="char:EOLhyphen"/>tural States call'd the <hi>Old Man a Body,</hi> and <hi>Members of Sin,</hi> The Soul coming with a <hi>Law</hi> of <hi>Righteouſneſs</hi> engraven up<g ref="char:EOLhyphen"/>on it immediately by Gods <hi>Creation</hi> into ſuch a <hi>Body,</hi> and ſinking into its Corruption, as deſcending from <hi>Adam,</hi> and not keeping up to its <hi>Law</hi> of <hi>Creation,</hi> ſinks into <hi>Sin</hi> and <hi>Death.</hi>
+                  </p>
+                  <p>But Chriſts <hi>Regeneration</hi> by his Spirit dwells as a higher<note place="margin">1 Cor. 6. 19. Rom. 8. 10, 11.</note> Spirit in the <hi>Regenerated Spirit,</hi> and from thence making a <hi>Temple</hi> of the <hi>Body,</hi> gives pre<g ref="char:EOLhyphen"/>ſent Life to that <hi>Spirit</hi> by <hi>Righteouſneſs,</hi> when ever it ſe<g ref="char:EOLhyphen"/>parates
+<pb n="30" facs="tcp:48369:17"/> from the <hi>Body;</hi> and a <hi>Reſurrection</hi> to the <hi>Body</hi> after Death.</p>
+                  <p>3. The Law of conveyance of Sin and Death is unrepeal<g ref="char:EOLhyphen"/>able upon All, that is of <hi>Apo<g ref="char:EOLhyphen"/>ſtate Adam;</hi> The <hi>Spirit</hi> or higheſt Soul of all the Chil<g ref="char:EOLhyphen"/>dren of <hi>Adam,</hi> cemented with the Body, is till recover'd by Chriſt under <hi>Condemnation,</hi> notwithſtanding It was given by Creation from God: It cannot be renewed perfectly, ſo as to be Life till ſeparated from the <hi>Body</hi> by the Death of the <hi>Body.</hi> The <hi>Body</hi> till it be a <hi>Body</hi> of the <hi>Reſurrection,</hi> is under <hi>Death;</hi> and All this by vertue of that Decree upon <hi>Adam the Head.</hi> But in Chriſt the head of recovery All is in its own order recovered into the <hi>Reign of Life;</hi> the <hi>Spirit</hi> beginningly now, perfectly at <hi>Death,</hi> becomes <hi>Life.</hi> The Bo<g ref="char:EOLhyphen"/>dy
+<pb n="31" facs="tcp:48369:17"/> as the <hi>Temple of the Holy Ghoſt</hi> dwelling in the <hi>Soul</hi> ſhall be certainly rais'd by the Spirit of Chriſt dwelling in the Soul, and by it in the Bo<g ref="char:EOLhyphen"/>dy alſo.</p>
+                  <div type="application">
+                     <head>
+                        <g ref="char:V">Ʋ</g>ſe.</head>
+                     <p>All which teaches us to look to this, that we be found in the <hi>Second Adam,</hi> out of whom there is in from the <hi>Firſt Adam,</hi> as a <hi>Common Head,</hi> nothing but <hi>Sin, Death,</hi> and <hi>Condemnation.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div n="3" type="proposition">
+                  <head>Propoſition 3.</head>
+                  <p>
+                     <hi>Adam</hi> by his <hi>Fall,</hi> and<note place="margin">Obſerve the whole Context from verſe to verſe.</note> Conveyance of a <hi>Law</hi> of <hi>Ho<g ref="char:EOLhyphen"/>lineſs,</hi> and of a <hi>Nature</hi> not agreeable to that <hi>Law of Ho<g ref="char:EOLhyphen"/>lineſs,</hi> hath been a <hi>Head,</hi> Com<g ref="char:EOLhyphen"/>mon <hi>Perſon,</hi> or <hi>Mediator</hi> of abundance of <hi>Sin, Diſobedi<g ref="char:EOLhyphen"/>ence, Offence, Tranſgreſſion, Condemnation,</hi> Death, and the <hi>Reign of Death,</hi> to the <hi>Poſte<g ref="char:EOLhyphen"/>rity</hi>
+                     <pb n="32" facs="tcp:48369:18"/> of <hi>Mankind;</hi> The <hi>Law</hi> of <hi>Righteouſneſs</hi> publiſhed in a fairer, fuller, clearer Edition in <hi>Scripture,</hi> then as it is in the <hi>Heart of Man,</hi> ſince the <hi>Fall,</hi> hath made the <hi>Offence</hi> and the <hi>Death</hi> upon it much more to <hi>abound</hi> and <hi>Reign,</hi> by the clearer Knowledge, and more manifeſt Diſcoveries of them.</p>
+                  <p n="1">1. <hi>Adam</hi> notwithſtanding his <hi>Fall,</hi> ceaſed not to be the prolifick, and fruitful <hi>Head</hi> of millions of <hi>Mankind</hi> that have been, and are yet to be.</p>
+                  <p n="2">2. To All theſe He conveys the Nature of Men in all its vigour of Thoughts, Words, and Actions, according to the variety of Degrees, of Action, whereunto the ſeveral Tem<g ref="char:EOLhyphen"/>pers, Educations, Stations, and Ages of Men give them Op<g ref="char:EOLhyphen"/>portunity.</p>
+                  <p n="3">3. He hath no leſs conveyed that <hi>Law of Righteouſneſs</hi> to be
+<pb n="33" facs="tcp:48369:18"/> the Rule of the numberleſs Perſons of <hi>Mankind,</hi> and their far more numerous Actions, of which the <hi>Fiery</hi> Law of God in Scripture now gives the cleareſt Beams.</p>
+                  <p n="4">4. Hereupon by Reaſon of the unanſwerableneſs of their <hi>Natures,</hi> and Powers of Acti<g ref="char:EOLhyphen"/>on, and ſo of their Actions themſelves to this <hi>Law,</hi> a kind of Infinity of Actual <hi>Sin</hi> hath <hi>flown</hi> in upon the World, much more diſcovered and aggravated by that Fiery Law.</p>
+                  <p n="5">5. From thence <hi>Death</hi> in all its various ſhapes in this pre<g ref="char:EOLhyphen"/>ſent World, and the unſheath<g ref="char:EOLhyphen"/>ing<note place="margin">Rev. 20. 14, 15.</note> of <hi>Death</hi> in the <hi>Second</hi> and <hi>Eternal Death,</hi> of which the preſent <hi>Death</hi> is but the ſheath, or Scabbard, hath had and muſt have a wonderful, and trium<g ref="char:EOLhyphen"/>phant <hi>Reign</hi> on the World; of which all the Threats in the
+<pb n="34" facs="tcp:48369:19"/> Word of God are a notorious Evidence.</p>
+                  <p n="6">6. Beſides the Evidence of the Word of God, all the Ex<g ref="char:EOLhyphen"/>perience, all the Laws, all the Writings, all the common and ordinary Diſcourſe in the World, are the moſt known, and familiar Aſſurances of the <hi>Abundance</hi> of <hi>Sin</hi> and <hi>Death.</hi>
+                  </p>
+                  <p n="7">7. The cloſe Attendance of Reaſon, and its Enquiries will neceſſarily lead us to the <hi>Firſt man,</hi> as the original of both; but the unqueſtionable De<g ref="char:EOLhyphen"/>monſtration of it is this <hi>Word of God</hi> which beſt knows, how <hi>Mankind</hi> began, which hath given the moſt convictive Ac<g ref="char:EOLhyphen"/>counts of <hi>Sin,</hi> and <hi>Death,</hi> and which our own Sentiments of Mind moſt conſpire with; and ſo is moſt to be believ'd in the <hi>Original</hi> of them.</p>
+                  <p n="8">8. In all this ſo abundant <hi>Communication</hi> of <hi>Sin,</hi> and
+<pb n="35" facs="tcp:48369:19"/> 
+                     <hi>Death,</hi> of which <hi>Adam</hi> by the accident of his own Sin is be<g ref="char:EOLhyphen"/>come a <hi>Head,</hi> He is by that accident alſo yet the <hi>Figure</hi> of him, who is to be the <hi>Second Adam</hi> in regard of the Exube<g ref="char:EOLhyphen"/>rancies of <hi>Communication,</hi> though not in regard of the Things <hi>Communicated</hi> as con<g ref="char:EOLhyphen"/>trary and oppoſite, one to another, as <hi>Sin,</hi> and <hi>Death</hi> are contrary to Righteouſneſs and Life.</p>
+                  <p>But to All that are in Chriſt,<note place="margin">Obſerve the <hi>much more</hi> along the Con<g ref="char:EOLhyphen"/>text.</note> Chriſt is a <hi>Mediator</hi> as much excelling <hi>Adam</hi> in the Power and Triumph of <hi>Communicati<g ref="char:EOLhyphen"/>on</hi> of <hi>Righteouſneſs, Life,</hi> and the <hi>Reign</hi> of it, as the <hi>Anti<g ref="char:EOLhyphen"/>type</hi> excells the <hi>Type,</hi> (as was before ſaid) and that not only in the Excellency of the Things <hi>Communicated,</hi> but in the Rich<g ref="char:EOLhyphen"/>neſs, and Plenty of the <hi>Com<g ref="char:EOLhyphen"/>munication.</hi>
+                  </p>
+                  <div type="application">
+                     <pb n="36" facs="tcp:48369:20"/>
+                     <head>
+                        <g ref="char:V">Ʋ</g>ſe.</head>
+                     <p>How Neceſſary is it we ſhould All behold our ſelves in the <hi>Firſt Adam,</hi> in whom we certainly are by <hi>Natural Generation,</hi> and that thereup<g ref="char:EOLhyphen"/>on we ſhould be filled with the Shame, Horror, Sorrow, and Humiliation flowing from ſuch a <hi>lost Nature,</hi> and our in<g ref="char:EOLhyphen"/>numerable <hi>Actual Tranſgreſſions</hi> upon it; And that thereupon we ſhould haſten into the <hi>Se<g ref="char:EOLhyphen"/>cond Adam</hi> by <hi>Faith,</hi> and <hi>Re<g ref="char:EOLhyphen"/>generation,</hi> who is the <hi>Head</hi> of <hi>Life,</hi> and <hi>Recovery.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div n="4" type="proposition">
+                  <head>Propoſition 4.</head>
+                  <p>Jeſus Chriſt is brought in<note place="margin">
+                        <hi>One Man, One Jeſus Chriſt</hi> is oppos'd to <hi>One Man Adam</hi> throughout the Con<g ref="char:EOLhyphen"/>text.</note> by God, the <hi>Second, Laſt,</hi> perfect <hi>Adam,</hi> the moſt Excel<g ref="char:EOLhyphen"/>lent <hi>One Man,</hi> the <hi>Common Head,</hi> and <hi>Mediator</hi> of <hi>Hu<g ref="char:EOLhyphen"/>mane Nature</hi> the <hi>Antitype</hi> to the <hi>Type,</hi> the <hi>Firſt Adam.</hi>
+                  </p>
+                  <pb n="37" facs="tcp:48369:20"/>
+                  <p>The <hi>First man, Adam</hi> was before his <hi>Fall</hi> a Perſon of Great Value, of Great Suffici<g ref="char:EOLhyphen"/>ency, when He was appointed a <hi>Mediator</hi> by God: But by his own Sin He ſunk, and <hi>Fell,</hi> and is become to all his Poſte<g ref="char:EOLhyphen"/>rity a <hi>Head</hi> of <hi>Ruine.</hi>
+                  </p>
+                  <p>Chriſt therefore comes as a Perſon of infinitely Greater va<g ref="char:EOLhyphen"/>lue into the <hi>Humane Nature,</hi> and into <hi>Adams</hi> Station to Raiſe, Recover, and Boy it up.</p>
+                  <p>He came into the <hi>Nature</hi> ſo, as to embrace the whole <hi>Na<g ref="char:EOLhyphen"/>ture</hi> in Himſelf without a <hi>Hu<g ref="char:EOLhyphen"/>mane Perſon,</hi> and ſo was more perfectly a <hi>Man</hi> then <hi>Adam,</hi> not a <hi>Great Man,</hi> but <hi>The Man</hi>
+                     <note place="margin">1 Tim. 2. 5.</note> 
+                     <hi>Chriſt Jeſus.</hi>
+                  </p>
+                  <p>As the <hi>Son of God</hi> He was <hi>Creator,</hi> and <hi>Lord</hi> of the <hi>Na<g ref="char:EOLhyphen"/>ture,</hi> and ſo had Right to Re<g ref="char:EOLhyphen"/>cover it, as his <hi>own.</hi> As the<note place="margin">Phil. 2. v. 6. 8.</note> 
+                     <hi>Son of Man</hi> He bore the ab<g ref="char:EOLhyphen"/>ſtracted
+<pb n="38" facs="tcp:48369:21"/> 
+                     <hi>Humane Nature,</hi> not limited to a <hi>Humane,</hi> but uni<g ref="char:EOLhyphen"/>ted to the <hi>Divine Perſon,</hi> and ſo was incomparably beyond <hi>Adam,</hi> fit to be the <hi>Common Head;</hi> becauſe he had all the <hi>Nature</hi> ſo abſtracted, not bounded (as in <hi>Adam</hi>) by a <hi>Humane Perſon,</hi> that muſt look to it ſelf, as well as to the <hi>Na<g ref="char:EOLhyphen"/>ture.</hi> So All he did, and ſuf<g ref="char:EOLhyphen"/>fer'd, ran out wholly to the <hi>Nature;</hi> but He is the <hi>Head</hi> moſt properly, eſpecially to the <hi>Renewed, Humane Nature,</hi> entire in Him; being <hi>concei<g ref="char:EOLhyphen"/>ved</hi> into it by the <hi>Holy Spirit, Adam</hi> therefore left his pub<g ref="char:EOLhyphen"/>lick Station, and privately, as a private <hi>Perſon</hi> retired into this <hi>Head,</hi> looking (as I ſaid) to Himſelf, and not to the <hi>Na<g ref="char:EOLhyphen"/>ture</hi> in this Action.</p>
+                  <p>The Ends of Gods Conſti<g ref="char:EOLhyphen"/>tuting this <hi>One Man</hi> as a <hi>Com<g ref="char:EOLhyphen"/>mon
+<pb n="39" facs="tcp:48369:21"/> Head,</hi> even his <hi>Son</hi> our <hi>Lord Jeſus Chriſt,</hi> are;</p>
+                  <p n="1">1. That He might have in Humane Nature an <hi>Adoption</hi> of many <hi>Sons to Glory</hi> in this <hi>Great Son of God</hi> and <hi>Son of Man,</hi> Heb. 2. 10.</p>
+                  <p n="2">2. There is a <hi>Redundancy</hi> of Benefit; Common Grace, and other Advantages upon all parts of <hi>Humane Nature</hi> in preſerving ſo much of the Remains of Conformity to the <hi>Law of Righteouſneſs</hi> in the World, which would only condemn as in <hi>Hell,</hi> and not guide to any Thing <hi>Good,</hi> but turn the World into a <hi>Hell,</hi> were it not for Chriſt; in whom alſo ſo much of <hi>Patience,</hi> and <hi>Bounty</hi> is vouchſafed to men in out<g ref="char:EOLhyphen"/>ward Bleſſings, eſſaying their Return to God by Repentance,<note place="margin">Rom. 2. 4. 2 Pet. 3. 9.</note> in hopes of his Mercy, to which this <hi>Patience,</hi> and <hi>Bounty</hi> give ſo Great Encouragements.</p>
+                  <div type="application">
+                     <pb n="40" facs="tcp:48369:22"/>
+                     <head>
+                        <g ref="char:V">Ʋ</g>ſe.</head>
+                     <p>This ſhews the admirable Congruity to our Caſe, to have our <hi>Help</hi> laid upon ſo <hi>mighty,</hi> and near a <hi>Mediator,</hi> as <hi>Em<g ref="char:EOLhyphen"/>manuel, God with us.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div n="5" type="proposition">
+                  <head>Propoſition 5.</head>
+                  <p>Jeſus Chriſt is a <hi>Mediator</hi> of<note place="margin">Compare v. 15. and v. 19. the double pa<g ref="char:EOLhyphen"/>rallel, lying on each ſide the Propoſiti<g ref="char:EOLhyphen"/>on. v. 18.</note> the <hi>Grace</hi> of <hi>God,</hi> and of the <hi>Free Gift</hi> of Righteouſneſs by Grace in its Great <hi>Abundance,</hi> even as <hi>Adam</hi> was of the <hi>Of<g ref="char:EOLhyphen"/>fence</hi> and its <hi>Abundance:</hi> yet ſo as that He is a Mediator of <hi>Righteouſneſs</hi> in his own <hi>Obe<g ref="char:EOLhyphen"/>dience</hi> alſo.</p>
+                  <p>The <hi>Grace of God</hi> is the Higheſt Manifeſtation of the Divine Glory, and Goodneſs to us; How High therefore is the Honour of Chriſt to be the <hi>Mediator</hi> of it?</p>
+                  <p>
+                     <hi>Adam</hi> was at firſt intended to be the <hi>Mediator</hi> of <hi>Righte<g ref="char:EOLhyphen"/>ouſneſs,</hi> and of the <hi>Benignity</hi> of
+<pb n="41" facs="tcp:48369:22"/> the <hi>Creator</hi> to his <hi>Creatures,</hi> ac<g ref="char:EOLhyphen"/>cording to a <hi>Covenant of Works,</hi> and <hi>Debt,</hi> and proportionably<note place="margin">Rom. 4. 4.</note> by his <hi>Fall</hi> He becomes a <hi>Me<g ref="char:EOLhyphen"/>diator</hi> of the <hi>Juſtice of God</hi> up<g ref="char:EOLhyphen"/>on <hi>Sin,</hi> and <hi>Sinners;</hi> For <hi>Sin,</hi> were it not for that <hi>Juſtice,</hi> were only the Impotency, and weakneſs, and defect of a Crea<g ref="char:EOLhyphen"/>ture, made to be ſo <hi>Righteous,</hi> not bearing up to <hi>Righteouſneſs,</hi> that <hi>Juſtice</hi> makes <hi>Sin ſo ſtrong.</hi> 1 Cor. 15. 56.</p>
+                  <p>Chriſt as a <hi>Mediator of Free Grace</hi> hath infinite Advantages in regard of us, above a <hi>Me<g ref="char:EOLhyphen"/>diator of Righteouſneſs</hi> only. [for <hi>Righteouſneſs</hi> walks by ſevere Rules and exact Steps.]<note place="margin">Pſal. 145. 17.</note> 
+                     <hi>Adam</hi> being ſo, and <hi>ſinning</hi> could never Recover by Him<g ref="char:EOLhyphen"/>ſelf; Nor any of his Poſterity by any Power Receiv'd from Him, who entailed Sin and <hi>Death.</hi> But <hi>Grace</hi> is unlimi<g ref="char:EOLhyphen"/>mited,<note place="margin">Epheſ. 1. 6, 7. 11. c. 2. 7, 8, 9.</note> and unbounded in all
+<pb n="42" facs="tcp:48369:23"/> its motions, having no Cauſe, but it ſelf, no bound but it ſelf, <hi>viz.</hi> Its own Wiſdom, and Holineſs; ſo is infinitely more potent then <hi>Sin.</hi>
+                  </p>
+                  <p>It is True, <hi>Justice in God</hi> is <hi>Infinite,</hi> as <hi>Grace,</hi> for in God They are <hi>one:</hi> Grace therefore provides an infinite Satisfacti<g ref="char:EOLhyphen"/>on to <hi>Juſtice</hi> in the Obedience of Chriſt conſtituting <hi>Righ<g ref="char:EOLhyphen"/>teous,</hi> Rom. 5. 19. of which being ſecure, It triumphs as it pleaſes; and <hi>Sin</hi> vaniſhes be<g ref="char:EOLhyphen"/>fore it, for the <hi>ſtrength</hi> of <hi>Sin</hi> is the <hi>Juſtice of God</hi> in his <hi>Law.</hi> That ſatisfied, <hi>Sin</hi> is <hi>weak,</hi> and is <hi>blotted out</hi> as a <hi>Cloud;</hi> is <hi>ſought for,</hi> and not <hi>found, Cor<g ref="char:EOLhyphen"/>ruption</hi> dyes, vanquiſhed as <hi>Grace</hi> pleaſes.</p>
+                  <p>That the <hi>Mediatorſhip</hi> of Chriſt may be more fully un<g ref="char:EOLhyphen"/>derſtood in its being a <hi>Medi<g ref="char:EOLhyphen"/>atorſhip</hi> of <hi>Grace,</hi> ſeeing <hi>Juſtice</hi> is infinite in God, and his
+<pb n="43" facs="tcp:48369:23"/> 
+                     <hi>Grace</hi> and his <hi>Juſtice</hi> One in Him; which Juſtice Judges, acts, and proceeds according to <hi>number, weight,</hi> and <hi>meaſure.</hi> The Apoſtle hath joyn'd in an oppoſite parallel on the other ſide of the propoſition, v. 18. the <hi>Obedience</hi> of Chriſt; ſo full and ſo perfect; that he plainly aſſerts, that even as by the <hi>Diſ<g ref="char:EOLhyphen"/>obedience of one</hi> many were <hi>made</hi> or <hi>conſtituted,</hi> that is judg'd and determin'd <hi>Sin<g ref="char:EOLhyphen"/>ners;</hi> ſo by the <hi>Obedience</hi> of <hi>One</hi> many were not only par<g ref="char:EOLhyphen"/>doned, and ſo accepted as <hi>Righteous,</hi> but They are, and ſhall be <hi>conſtituted,</hi> decreed, determined, and juſtly judged to be Righteous, by this Righ<g ref="char:EOLhyphen"/>teouſneſs of Chriſt infinite in <hi>number, weight,</hi> and <hi>meaſure</hi> becoming theirs.</p>
+                  <div type="application">
+                     <head>
+                        <g ref="char:V">Ʋ</g>ſe.</head>
+                     <p>This <hi>Obedience</hi> therefore is to be conſidered in the <hi>Medi<g ref="char:EOLhyphen"/>ator</hi> of it, truly <hi>higher then the</hi>
+                        <pb n="42" facs="tcp:48369:24"/>
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb n="43" facs="tcp:48369:24"/>
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb n="44" facs="tcp:48369:25"/> 
+                        <hi>Heavens, deeper</hi> in ſufferings in their value and vertue, then the <hi>lowest Hell, broader</hi> then the Perſons, and Sins of All, over whom and over which <hi>Adams</hi> Sin can extend it ſelf, in thoſe, for whom as in Chriſt It is accepted; and <hi>lon<g ref="char:EOLhyphen"/>ger</hi> then the whole Line of <hi>Adams</hi> Sin, beginning with Time, and running on for ever if not cut off by this <hi>Righte<g ref="char:EOLhyphen"/>ouſneſs of Christ,</hi> which is <hi>eter<g ref="char:EOLhyphen"/>nal,</hi> or from <hi>Everlaſting</hi> to <hi>Everlaſting,</hi> and nothing be<g ref="char:EOLhyphen"/>yond it.</p>
+                     <p>And thus was the <hi>Obedience</hi> of Jeſus Chriſt (an <hi>Obedience</hi> of <hi>infinite Purity,</hi> and of un<g ref="char:EOLhyphen"/>fathom'd <hi>ſufferings</hi> of the <hi>Son of God,</hi> a <hi>Prieſt for ever, with<g ref="char:EOLhyphen"/>out beginning of Days, or end of Life</hi>) Eternal.</p>
+                  </div>
+               </div>
+               <div n="6" type="proposition">
+                  <head>Propoſ. <hi>6.</hi>
+                  </head>
+                  <p>Upon this full, and compleat<note place="margin">verſe 16. compared with 20.</note> Satisfaction to <hi>Juſtice,</hi> although the <hi>one Sin</hi> of <hi>Adam</hi> becomes
+<pb n="45" facs="tcp:48369:25"/> 
+                     <hi>Legions of Legions</hi> by Actual <hi>Tranſgreſſions,</hi> and are ſeen in every Atom, every aggravating Circumſtance in the Beams of that <hi>Fiery, Law,</hi> yet the <hi>Free Gift of Grace</hi> in, and upon this <hi>Righteouſneſs</hi> blots them all out <hi>of this Light of Gods Coun<g ref="char:EOLhyphen"/>tenance;</hi> And this <hi>Righteouſ<g ref="char:EOLhyphen"/>neſs,</hi> and <hi>Obedience</hi> is as the <hi>Ark of Noah,</hi> that was not overwhelm'd by the <hi>ſwelling of the Floods,</hi> but Rode above them, and the higher they were, the higher the <hi>Ark</hi> was; ſo the Soul enclos'd and AR<g ref="char:EOLhyphen"/>KED in this <hi>Righteouſneſs</hi> of Grace, and the <hi>Free Gift</hi> Rides above all the ſurges of raging Guilt, whether from juſt fears of Gods <hi>Righteous Judgment;</hi> from the Turmoils of <hi>Conſci<g ref="char:EOLhyphen"/>ence,</hi> or the ſoming <hi>Accuſations</hi> from <hi>Hell;</hi> and ſtands <hi>Righte<g ref="char:EOLhyphen"/>ous</hi> (notwithſtanding All) be<g ref="char:EOLhyphen"/>fore God; before Angels, and
+<pb n="46" facs="tcp:48369:26"/> to the Conſternation, and ſi<g ref="char:EOLhyphen"/>lence of <hi>lost Spirits.</hi> For <hi>where Sin abounds, Grace does much more abound,</hi> and the <hi>Free Gift</hi> is of <hi>many,</hi> never ſo many <hi>Offences to Juſtification.</hi>
+                  </p>
+                  <div type="application">
+                     <head>
+                        <g ref="char:V">Ʋ</g>ſe.</head>
+                     <p>Behold then by way of Ado<g ref="char:EOLhyphen"/>ration, and Holy Confidence the ample Reſt of <hi>Conſciences waſh'd in the Blood of Jeſus.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div n="7" type="proposition">
+                  <head>Propoſition 7.</head>
+                  <p>The Great Queſtion now <hi>ariſing</hi> will bee; How can it be ever reconciled to <hi>Divine Juſtice,</hi> or to <hi>Natural Conſci<g ref="char:EOLhyphen"/>ence,</hi> that the <hi>Righteouſneſs of one</hi> ſhould be made the <hi>Righ<g ref="char:EOLhyphen"/>teouſneſs of ſo many;</hi> To this the Apoſtle hath laid the An<g ref="char:EOLhyphen"/>ſwer in the Center, and even ballance of the whole Diſ<g ref="char:EOLhyphen"/>courſe; <hi>As by the Offence of one Judgment came upon All to</hi>
+                     <note place="margin">v. 18.</note> 
+                     <hi>Condemnation; ſo to the Righ<g ref="char:EOLhyphen"/>teouſneſs
+<pb n="47" facs="tcp:48369:26"/> of one to the Juſtifica<g ref="char:EOLhyphen"/>tion of Life.</hi>
+                  </p>
+                  <p>The infinite <hi>Righteouſneſs,</hi> and <hi>Truth</hi> of God hath deter<g ref="char:EOLhyphen"/>min'd the Caſe; <hi>One Perſon</hi> may communicate to <hi>Many,</hi> and to <hi>All</hi> in Him, for the <hi>Ma<g ref="char:EOLhyphen"/>ny,</hi> who are alſo the <hi>All in One Adam</hi> (in whom the <hi>Man Chriſt Jeſus</hi> was not) fall un<g ref="char:EOLhyphen"/>der Judgment from Him to Condemnation; So the <hi>Many,</hi> even the <hi>All</hi> in Chriſt (in whom All <hi>
+                        <g ref="char:V">Ʋ</g>nbelievers</hi> and <hi>Im<g ref="char:EOLhyphen"/>penitent</hi> are not) <hi>receive Righ<g ref="char:EOLhyphen"/>teouſneſs</hi> to the <hi>Justification of Life.</hi> All therefore, who be<g ref="char:EOLhyphen"/>ing <hi>cut out</hi> of the old ſtock of <hi>Apostate Adam,</hi> and are <hi>en<g ref="char:EOLhyphen"/>grafted</hi> into the <hi>New, Second, Last Adam,</hi> by <hi>Humiliation, Faith, Repentance,</hi> the <hi>New Creation</hi> are ſo <hi>one Spirit,</hi> and <hi>one Body</hi> with Him, that his <hi>Righteouſneſs</hi> overflows them All, as naturally, as what is
+<pb n="48" facs="tcp:48369:27"/> the <hi>Heads</hi> flows down on all the <hi>Members;</hi> as the <hi>Root</hi> is the <hi>Branches,</hi> the <hi>Husbands</hi> Glory, and Riches the <hi>Wifes,</hi> the <hi>Parents</hi> the <hi>Childrens,</hi> or the Things of a Mans ſelf the Things of his whole ſelf.</p>
+                  <div type="application">
+                     <head>
+                        <g ref="char:V">Ʋ</g>ſe.</head>
+                     <p>Look well then to this Im<g ref="char:EOLhyphen"/>plantation into Chriſt, and <hi>
+                           <g ref="char:V">Ʋ</g>nion with Him,</hi> that it be as real, as our <hi>Being in Adam.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div n="8" type="proposition">
+                  <head>Propoſition 8.</head>
+                  <p>To the Great Difficulty, that<note place="margin">The Reign of <hi>Grace, Righteouſ<g ref="char:EOLhyphen"/>neſs,</hi> and <hi>Life,</hi> above the <hi>Reign</hi> of <hi>Sin</hi> and <hi>Death</hi> on both ſides the Propo<g ref="char:EOLhyphen"/>ſition. v. 17. v. 21.</note> may Ariſe to Conſciences con<g ref="char:EOLhyphen"/>cerning the Impoſſibility of this Implantation to Chriſt by any Faculties, or Powers of our own, the Apoſtle hath in<g ref="char:EOLhyphen"/>ſinuated <hi>Great Conſolation</hi> in thoſe two Forms of ſpeaking. As <hi>Judgment</hi> by the <hi>Offence of one</hi> to <hi>Condemnation;</hi> ſo by the <hi>Righteouſneſs of one</hi> to the <hi>Juſtification of Life;</hi> ſignifying,
+<pb n="49" facs="tcp:48369:27"/> that as <hi>Judgment</hi> burſt out from <hi>Adams Sin,</hi> ſo from the <hi>Second Adams Righteouſneſs, Justification of Life</hi> is even in Pain, and violent to break out. Whoever therefore in another Expreſſion, <hi>v.</hi> 17. <hi>Re<g ref="char:EOLhyphen"/>ceives its Abundance,</hi> It flows amain upon him. If we had therefore but the Heart, the Mind, the Soul to <hi>Receive it,</hi> It could not but be ours. A Heart ſet upon Chriſt, and his Grace according to thoſe Ex<g ref="char:EOLhyphen"/>preſſions, <hi>c.</hi> 8. <hi>v.</hi> 6. <hi>&amp;c.</hi> of <hi>Solomons Song,</hi> ſhall certain<g ref="char:EOLhyphen"/>ly have it; Thus free is the way of <hi>having this free Gift.</hi> It is True; It muſt be a full and compleat deſire, like that to the <hi>Pearl of Great Price,</hi> Matt. 13. 45. ſo it is fit It ſhould be for ſuch a <hi>Pearl.</hi>
+                  </p>
+                  <div type="application">
+                     <head>
+                        <g ref="char:V">Ʋ</g>ſe.</head>
+                     <p>Oh how do we periſh for want of deſire to Chriſt, for want of <hi>will to come to Him,
+<pb n="50" facs="tcp:48369:28"/> that we may have Life.</hi> He juſtly periſhes, who will not deſire ſuch a Good with a de<g ref="char:EOLhyphen"/>ſire anſwerable to it.</p>
+                  </div>
+               </div>
+               <div n="9" type="proposition">
+                  <head>Propoſition 9.</head>
+                  <p>But ſeeing there is a multi<g ref="char:EOLhyphen"/>tude of Mankind in <hi>Adam,</hi> who periſh; How can the Grace of Chriſt be commenſu<g ref="char:EOLhyphen"/>rate to, and equal, much leſs ſurmount <hi>Adams Offence?</hi> To this it may be anſwered, the <hi>Holy Seed</hi> are the <hi>whole Sub<g ref="char:EOLhyphen"/>ſtance</hi> of <hi>Mankind.</hi> All elſe being not of the <hi>Renewed Hu<g ref="char:EOLhyphen"/>mane Nature of Christ,</hi> are not accounted His All, or any of His, or for his <hi>Seed,</hi> but ſink down firſt into <hi>Earth,</hi> or meer Body; then into ſenſitive Soul, a Nature more below Chriſts <hi>Humane Nature,</hi> then the <hi>brutal</hi> below the <hi>rational Humane Na<g ref="char:EOLhyphen"/>ture;</hi> And at laſt the <hi>higher Souls,</hi>
+                     <pb n="51" facs="tcp:48369:28"/> or <hi>Spirits</hi> of Men not <hi>Partakers of the Divine Nature</hi> by Chriſt, and in Chriſt, become of the <hi>kind</hi> and <hi>ſpecies of Devils</hi> or fallen Angels, according to <hi>James</hi> 3. 15, 16, 17. and carry the whole man with them.</p>
+                  <p>Yet is the number of the ſaved in Chriſt an incompre<g ref="char:EOLhyphen"/>henſible great Number, a <hi>num<g ref="char:EOLhyphen"/>ber</hi> that <hi>no one can number,</hi> and<note place="margin">Revel. 7. 9.</note> Jeſus Chriſt at the Head of that <hi>General Aſſembly</hi> with the <hi>in<g ref="char:EOLhyphen"/>numerable Company of Angels,</hi> makes them as far beyond the Account of the <hi>Loſt,</hi> as <hi>ſub<g ref="char:EOLhyphen"/>ſtantial</hi>
+                     <note place="margin">Heb. 12. 23</note> 
+                     <hi>Figures</hi> are beyond ne<g ref="char:EOLhyphen"/>ver ſo <hi>innumerable Cyphers.</hi> Theſe are the <hi>First Born</hi> who have the <hi>Inheritance.</hi>
+                  </p>
+                  <div type="application">
+                     <head>
+                        <g ref="char:V">Ʋ</g>ſe.</head>
+                     <p>Be not therefore diſcoura<g ref="char:EOLhyphen"/>ged, but <hi>ſtrive</hi> the more; Be in an <hi>Agony</hi> to <hi>enter;</hi> for<note place="margin">Luc. 13. 24.</note> though <hi>many ſtrive to enter,</hi> and <hi>are not able;</hi> yet the Tru<g ref="char:EOLhyphen"/>er, more ſubſtantial number,
+<pb n="52" facs="tcp:48369:29"/> the <hi>Jewels, the Veſſels unto Ho<g ref="char:EOLhyphen"/>nour,</hi> the <hi>precious Gold and Silver,</hi> the <hi>Wheat</hi> are ſav'd, which are alſo beyond num<g ref="char:EOLhyphen"/>ber; The <hi>Droſs,</hi> the <hi>Refuſe,</hi> the <hi>Chaff,</hi> the <hi>Tares,</hi> the <hi>Veſſels to Diſhonour</hi> are only the <hi>Loſt.</hi> And <hi>if a Man purge Himſelf from theſe, He ſhall be a Veſſel</hi>
+                        <note place="margin">2 Tim. 2. 21.</note> 
+                        <hi>unto Honour, Sanctified, Meet for the Masters <g ref="char:V">Ʋ</g>ſe, ready to every good Work.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div n="10" type="proposition">
+                  <head>Propoſition 10.</head>
+                  <p>The <hi>Reign in, and unto Eternal Life</hi> in Chriſt is ſo much above the <hi>Reign of Death</hi> from <hi>Adam,</hi> that it infinitely ſurpaſſes, and ſurmounts the whole <hi>Condemnation,</hi> and <hi>Death by Adam.</hi>
+                  </p>
+                  <p>The Bleſſedneſs of <hi>ſeparate Spirits</hi> before the Reſurrection.</p>
+                  <p>The incomparable Glory of the Firſt <hi>Reſurrection,</hi> and of a
+<pb n="53" facs="tcp:48369:29"/> 
+                     <hi>part in it, in the Paradiſe of God,</hi> in the <hi>New Jeruſalem,</hi> in the <hi>Reſtitution of All Things,</hi> in the <hi>New Heaven, and the New Earth,</hi> in the <hi>Glorious Kingdom of Chriſt.</hi>
+                  </p>
+                  <p>The Bleſſedneſs of Saints <hi>being with Chriſt,</hi> and <hi>beholding the Glory he had with the Fa<g ref="char:EOLhyphen"/>ther,</hi> who <hi>loved him before the World was,</hi> and being ſo em<g ref="char:EOLhyphen"/>braced into this Love, that this Love is in the <hi>Saints,</hi> and <hi>Chriſt in them</hi> in the pure and per<g ref="char:EOLhyphen"/>fect <hi>Eternity, when God ſhall</hi>
+                     <note place="margin">John 17. 24. 26.</note> 
+                     <hi>be All in All.</hi>
+                  </p>
+                  <p>All theſe are ſo beyond All <hi>that Eye hath ſeen,</hi> or <hi>Ear hath heard,</hi> or <hi>that hath entred into the Heart of Man to conceive,</hi> that we cannot know it; <hi>For we ſhall be like Him, and ſee Him,</hi> as <hi>He is;</hi> This ſwallows all Objection from the Few<g ref="char:EOLhyphen"/>neſs of the <hi>ſav'd,</hi> and ſhews the <hi>Reign of Grace to Life, above Deaths Reign.</hi>
+                  </p>
+                  <div type="application">
+                     <pb n="54" facs="tcp:48369:30"/>
+                     <head>
+                        <g ref="char:V">Ʋ</g>ſe.</head>
+                     <p>But <hi>Let Him that hath this Hope, purifie Himſelf, even as He is pure.</hi> And that no Man may think this a Licencious Doctrine, let him conſider the Doctrine of <hi>Goſpel Sanctifica<g ref="char:EOLhyphen"/>tion,</hi> flowing from, and along with this Doctrine of Grace by Chriſt the <hi>Mediator,</hi> in whom All <hi>Dye to Sin, Riſe to Righteouſneſs</hi> in and with Him, have <hi>part for part, Grace for Grace,</hi> anſwering to his <hi>Righ<g ref="char:EOLhyphen"/>teouſneſs</hi> in <hi>inward Righteouſ<g ref="char:EOLhyphen"/>neſs,</hi> of which the Apoſtle treats in the following Chap<g ref="char:EOLhyphen"/>ters, and wherein by Gods Grace my Diſcourſe ſhall fol<g ref="char:EOLhyphen"/>low Him.</p>
+                  </div>
+               </div>
+            </div>
+            <pb facs="tcp:48369:30"/>
+         </div>
+      </body>
+   </text>
+</TEI>
